@@ -7,7 +7,7 @@ Feel free to pull request with your techniques ! ❤️
 Developed by Alexis Danizan [![Twitter Follow](https://img.shields.io/twitter/follow/alexisdanizan?style=social)](https://twitter.com/alexisdanizan/)  
 Released as open source by [Synacktiv 🥷](https://www.synacktiv.com/) 
 
-
+![AzureAd / EntraID mindmap](thumbnail.png)
 
 📖 Resources
 -----
